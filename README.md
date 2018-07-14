@@ -18,3 +18,5 @@ Administration part(for Admin only):
   Delete game page
 
 Technologies used: MongoDb, Express.js, React.js, Node.js
+
+Link to Github: https://github.com/DanielTotev/ReactJsFundamentalsCourseProject
